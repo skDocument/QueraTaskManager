@@ -1,0 +1,11 @@
+.fc-daygrid-day-frame{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    
+}
+
+.fc-daygrid-day-top {
+    display: grid !important;
+    width: 100%;
+}
